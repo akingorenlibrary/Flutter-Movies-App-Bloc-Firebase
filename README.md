@@ -1,4 +1,4 @@
-# filmler_app
+# movies_app
 
 A new Flutter project.
 
